@@ -1,0 +1,7 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\bin\Debug\insertionSort.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\bin\Debug\insertionSort.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\bin\Debug\insertionSort.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\obj\Debug\insertionSort.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\obj\Debug\insertionSort.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\obj\Debug\insertionSort.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\insertionSort\obj\Debug\insertionSort.pdb
