@@ -1,0 +1,7 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\SelectionSort\obj\Debug\SelectionSort.pdb
